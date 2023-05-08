@@ -396,3 +396,47 @@ body.dark .tokyo_tm_pricing .popular{
 	color: #000;
 }
 
+a:visited {
+	color: #ea18bc;
+}
+a {
+	color: whitesmoke;
+}
+
+
+.form-group {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 20px;
+}
+
+label {
+	margin-right: 10px;
+	text-align: right;
+	font-size: 20px;
+	width: 100px;
+}
+
+input[type="text"],
+textarea {
+	flex: 1;
+	left: 50px;
+	margin-right: 50px;
+
+	padding: 5px;
+}
+
+input[type="submit"] {
+	margin-left: 110px;
+	margin-right: 110px;
+	padding: 5px 20px;
+	background-color: #63014e;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #9a057a;
+}
