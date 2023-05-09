@@ -1,0 +1,3 @@
+Spotify Recommender System|https://github.com/ijzepeda-LC/spotify_recom_system
+Pixel Heist|https://github.com/ijzepeda-LC/Pixel_Heist
+Lecture Summarizer|https://github.com/ijzepeda-LC/hackathon
